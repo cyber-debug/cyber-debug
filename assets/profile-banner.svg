@@ -1,0 +1,9 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">sbramn — systems and product engineering</title><desc id="desc">A dark developer-themed banner.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset=".55" stop-color="#17133D"/><stop offset="1" stop-color="#082F49"/></linearGradient><radialGradient id="r" cx="0" cy="0" r="1" gradientTransform="translate(1035 80) rotate(135) scale(330 230)" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8" stop-opacity=".48"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="300" rx="24" fill="url(#g)"/><rect width="1200" height="300" rx="24" fill="url(#r)"/>
+  <g opacity=".24" stroke="#A78BFA"><path d="M766 48h320v204H766z"/><path d="M806 88h240M806 128h160M806 168h208M806 208h118"/></g><g fill="#38BDF8"><circle cx="1105" cy="65" r="5"/><circle cx="1086" cy="252" r="5"/><circle cx="746" cy="235" r="5"/></g>
+  <text x="70" y="123" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">CYBER-DEBUG</text>
+  <text x="68" y="187" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">sbramn</text>
+  <text x="72" y="229" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="21">product engineering · infrastructure · systems</text>
+</svg>
