@@ -1,52 +1,24 @@
-<h1 align="center"> sbramn / vibecoder </h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git
-  logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-</div>
-
-###
+<h1 align="center">Hi, I'm sbramn.</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=cyber-debug&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  Building practical, reliable software from Moscow.
 </p>
 
-###
+I work across product engineering, infrastructure, and developer tooling. Right now, I’m contributing to <a href="https://github.com/honej-labs">Honej</a>—VPN infrastructure, control-plane services, and client applications built with security and operations in mind.
+
+### Focus
+
+- TypeScript & Node.js services
+- PostgreSQL-backed systems
+- Automation, developer experience, and production operations
+- Secure networking and Telegram integrations
+
+### Principles
+
+Clear systems beat clever ones. I care about useful software, deliberate trade-offs, and documentation that makes a project easier to run and improve.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-debug/cyber-debug/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-debug/cyber-debug/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cyber-debug/cyber-debug/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/cyber-debug?tab=repositories">Explore my work</a>
+  ·
+  <a href="https://github.com/honej-labs">Honej Labs</a>
 </p>
