@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/honej-labs"><img src="https://img.shields.io/badge/NOW_BUILDING-Honej-8B5CF6?style=for-the-badge" alt="Now building Honej"></a>
   <img src="https://img.shields.io/badge/BASED_IN-Moscow-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Moscow">
-  <img src="https://img.shields.io/badge/STATUS-shipping-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipping">
+  <img src="https://img.shields.io/badge/STATUS-shipping-0891B2?style=for-the-badge" alt="Shipping">
 </p>
 
 <p align="center">
@@ -44,12 +44,7 @@ I like product work that meets production reality—clear boundaries, useful aut
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,react,postgres,docker,git,githubactions,linux&theme=dark&perline=10" alt="TypeScript, JavaScript, Node.js, Python, React, PostgreSQL, Docker, Git, GitHub Actions, Linux">
 </p>
 
-### `04 / ACTIVITY`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=cyber-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&locale=en&count_private=true" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=cyber-debug&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak">
-</p>
+### `04 / CONTRIBUTION FLOW`
 
 <p align="center">
   <picture>
@@ -57,4 +52,8 @@ I like product work that meets production reality—clear boundaries, useful aut
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-debug/cyber-debug/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/cyber-debug/cyber-debug/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <sub>Building quietly. Shipping deliberately.</sub>
 </p>
