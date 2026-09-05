@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyber-debug/cyber-debug/main/assets/profile-banner.svg" alt="sbramn — product engineering, infrastructure, systems" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/honej-labs"><img src="https://img.shields.io/badge/NOW_BUILDING-Honej-8B5CF6?style=for-the-badge" alt="Now building Honej"></a>
-  <img src="https://img.shields.io/badge/BASED_IN-Moscow-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Moscow">
-  <img src="https://img.shields.io/badge/STATUS-shipping-0891B2?style=for-the-badge" alt="Shipping">
-</p>
-
-<p align="center">
   <a href="https://github.com/cyber-debug?tab=repositories">projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/honej-labs">honej labs</a>
 </p>
