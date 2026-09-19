@@ -13,8 +13,6 @@
 
 Building the systems behind [Honej](https://github.com/honej-labs): a Telegram-first VPN platform for subscriptions, billing, provisioning, and operations.
 
-I like product work that meets production reality—clear boundaries, useful automation, and software people can actually operate.
-
 </td>
 <td width="45%" valign="top">
 
